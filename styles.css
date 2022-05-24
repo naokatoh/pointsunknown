@@ -1,0 +1,74 @@
+
+body {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Serif Pro', serif;
+
+    background: #74ebd5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ACB6E5, #74ebd5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ACB6E5, #74ebd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+}
+
+.header{
+    max-width: 50rem;
+    margin:auto;
+}
+
+h1{
+    text-align:center;
+
+
+}
+
+#about{
+    max-width: 50rem;
+    margin: auto;
+    
+}
+
+
+#assignment{
+    max-width: 50rem;
+    margin: auto;
+
+}
+
+#footer{
+    max-width: 50rem;
+    margin: auto;
+    padding: 0.5em 1em;
+    font-weight: bold;
+    color: black;/
+    background: #FFF;
+    border: solid 1px grey;/*線*/
+    border-radius: 10px;/*角の丸み*/
+    
+    
+
+}
+
+.footer p{
+    font-size: small;
+}
+
+.img{
+    max-width: 50rem;
+
+}
+
+.h3{
+
+}
+
+a, a:visited{
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    color: black;
+
+}
+
+a:hover{
+    color:hsla(0, 0%, 0%, 0.5)
+}
