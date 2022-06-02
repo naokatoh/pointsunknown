@@ -58,7 +58,7 @@ h1{
 }
 
 .hover-after li a::after {
-  content: 'More';
+  content: 'See map details';
   display: flex;
   justify-content: center;
   align-items: center;
